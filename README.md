@@ -1,5 +1,7 @@
 ﻿# 📈 Stock Price Prediction Web Application
 
+ Link:https://stocks-price-prediction-project.streamlit.app/
+
 An interactive Machine Learning based web application developed using **Python**, **Scikit-Learn**, and **Streamlit** to predict stock closing prices using historical stock market data. The application performs data preprocessing, visualization, predictive analysis, and provides users with a simple interface for forecasting stock prices.
 
 ---
